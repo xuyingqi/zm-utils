@@ -1,0 +1,11 @@
+{
+  "name": "zm-utils",
+  "version": "1.0.0",
+  "description": "''\u001b[Dcommon toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
